@@ -1,0 +1,19 @@
+{
+  "name": "webduino-module-tm1637",
+  "description": "TM1637 Module for Webduino",
+  "main": "TM1637.js",
+  "authors": "",
+  "license": "ISC",
+  "keywords": [
+    "arduino",
+    "webduino",
+    "tm1637"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

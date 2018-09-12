@@ -1,0 +1,15 @@
+{
+  "types": ["tm1637_new", "tm1637_brightness", "tm1637_segments", "tm1637_showdec", "tm1637_off"],
+  "category": "catMenu1",
+  "scripts": [
+    "blockly/blocks.js",
+    "blockly/javascript.js"
+  ],
+  "dependencies": [
+    "TM1637.js",
+    "TM1637-blockly.js"
+  ],
+  "msg": "blockly/msg",
+  "blocksMsg": "blockly/msg/blocks",
+  "toolbox": "blockly/toolbox.xml"
+}

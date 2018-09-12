@@ -1,0 +1,36 @@
+<!-- 積木排列 -->
+<category id="catTM1637" tags="fly,mark1" index="6">
+      <block type="variables_set">
+        <field name="VAR">tm1637</field>
+        <value name="VALUE">       <!-- input   -->
+          <block type="tm1637_new">
+            <field name="clk">10</field>
+            <field name="dio">11</field>
+          </block>
+        </value>
+      </block>
+      <block type="tm1637_brightness">
+        <value name="brightness">
+          <block type="math_number">
+            <field name="NUM">0</field>
+          </block>
+        </value>
+      </block>
+
+      <block type="tm1637_segments">
+        <value name="list">
+          <block type="lists_create_with">
+          </block>
+        </value>
+      </block>
+
+      <block type="tm1637_showdec">
+        <value name="decimal">
+          <block type="math_number">
+            <field name="NUM">0</field>
+          </block>
+        </value>
+      </block>
+
+      <block type="tm1637_off"></block>  
+</category>

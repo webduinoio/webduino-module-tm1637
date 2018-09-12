@@ -1,0 +1,20 @@
+{
+  "name": "webduino-module-tm1637",
+  "version": "1.0.0",
+  "description": "TM1637 Module for Webduino",
+  "main": "TM1637.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [
+    "arduino",
+    "webduino",
+    "tm1637"
+  ],
+  "dependencies": {
+    "http-server": "^0.9.0",
+    "webduino-js": "0.x"
+  }
+}

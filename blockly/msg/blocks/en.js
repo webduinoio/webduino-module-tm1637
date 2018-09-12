@@ -1,0 +1,11 @@
+Blockly.Msg.WEBDUINO_TM1637 = "Seven-segment display (TM1637)";
+Blockly.Msg.WEBDUINO_TM1637_CLK = "CLK";
+Blockly.Msg.WEBDUINO_TM1637_DIO = "DIO";
+Blockly.Msg.WEBDUINO_TM1637_SET = "Settings";
+Blockly.Msg.WEBDUINO_TM1637_BRIGHTNESS = "brightness (0~7)";
+Blockly.Msg.WEBDUINO_TM1637_SHOW_FOUR_DIGITS = "Show four digits (from left to right)";
+Blockly.Msg.WEBDUINO_TM1637_CODE_ORDER = "Code in order (list)";
+Blockly.Msg.WEBDUINO_TM1637_SHOW_NUMBER = "Show numbers (0~9999)";
+Blockly.Msg.WEBDUINO_TM1637_COLON = "colon";
+Blockly.Msg.WEBDUINO_TM1637_LEADING_ZERO = "front zero";
+Blockly.Msg.WEBDUINO_TM1637_OFF = "Close";

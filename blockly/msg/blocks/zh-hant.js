@@ -1,0 +1,11 @@
+Blockly.Msg.WEBDUINO_TM1637 = "七段顯示器 ( TM1637 ) ";
+Blockly.Msg.WEBDUINO_TM1637_CLK = "CLK";
+Blockly.Msg.WEBDUINO_TM1637_DIO = "DIO";
+Blockly.Msg.WEBDUINO_TM1637_SET = "設定";
+Blockly.Msg.WEBDUINO_TM1637_BRIGHTNESS = "亮度 (0~7)";
+Blockly.Msg.WEBDUINO_TM1637_SHOW_FOUR_DIGITS = "顯示四位數 (由左而右）";
+Blockly.Msg.WEBDUINO_TM1637_CODE_ORDER  = "代碼依序 (列表)";
+Blockly.Msg.WEBDUINO_TM1637_SHOW_NUMBER = "顯示數字 (0~9999)";
+Blockly.Msg.WEBDUINO_TM1637_COLON = "冒號";
+Blockly.Msg.WEBDUINO_TM1637_LEADING_ZERO = "  前面補零";
+Blockly.Msg.WEBDUINO_TM1637_OFF = "關閉";

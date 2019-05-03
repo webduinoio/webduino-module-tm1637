@@ -18,11 +18,6 @@
     self._clk = clk;
     self._dio = dio;  
     board.send([0xf0, 0x04, 0x44, 0x0, clk, dio, 0xf7]);
-    board.on(webduino.BoardEvent.SYSEX_MESSAGE,
-      function (event) {
-        var m = event.message;
-        sending = false;
-      }); 
   }
 
   TM1637.prototype = proto = Object.create(Module.prototype, {

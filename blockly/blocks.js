@@ -9,7 +9,7 @@ Blockly.Blocks['tm1637_new'] = {
     this.setOutput(true);
     this.setColour(230);
     this.setTooltip('');
-    this.setHelpUrl('http://webduinoio.github.io/demo/max7219/');
+    this.setHelpUrl('https://tutorials.webduino.io/zh-tw/docs/cloud/component/7-segment-display.html');
   }
 };
 
@@ -26,7 +26,7 @@ Blockly.Blocks['tm1637_brightness'] = {
     this.setNextStatement(true, null);
     this.setColour(65);
     this.setTooltip('');
-    this.setHelpUrl('http://www.example.com/');
+    this.setHelpUrl('https://tutorials.webduino.io/zh-tw/docs/cloud/component/7-segment-display.html');
   }
 };
 
@@ -43,7 +43,7 @@ Blockly.Blocks['tm1637_segments'] = {
     this.setNextStatement(true, null);
     this.setColour(65);
     this.setTooltip('');
-    this.setHelpUrl('http://www.example.com/');
+    this.setHelpUrl('https://tutorials.webduino.io/zh-tw/docs/cloud/component/7-segment-display.html');
   }
 };  
 
@@ -62,7 +62,7 @@ Blockly.Blocks['tm1637_showdec'] = {
     this.setNextStatement(true, null);
     this.setColour(65);
     this.setTooltip('');  
-    this.setHelpUrl('http://www.example.com/');
+    this.setHelpUrl('https://tutorials.webduino.io/zh-tw/docs/cloud/component/7-segment-display.html');
   }
 };
 
@@ -76,6 +76,6 @@ Blockly.Blocks['tm1637_off'] = {
     this.setNextStatement(true, null);
     this.setColour(65);
     this.setTooltip('');
-    this.setHelpUrl('http://www.example.com/');
+    this.setHelpUrl('https://tutorials.webduino.io/zh-tw/docs/cloud/component/7-segment-display.html');
   }
 };
